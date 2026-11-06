@@ -54,7 +54,7 @@
   "devDependencies": {
     "@antfu/eslint-config": "^9.0.0",
     "@eslint-react/eslint-plugin": "^5.8.16",
-    "@next/eslint-plugin-next": "16.3.3",
+    "@next/eslint-plugin-next": "16.4.4",
     "@tailwindcss/postcss": "^4.3.0",
     "@types/mdx": "^2.0.14",
     "@types/node": "^24.12.2",
